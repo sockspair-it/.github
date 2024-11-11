@@ -1,4 +1,4 @@
-![Sockspair.it Logo](./assets/logo1.png)
+![Sockspair.it Logo](.././assets/logo1.png)
 
 # 🧦 Sockspair.it
 
